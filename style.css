@@ -1,0 +1,24 @@
+iframe{width:250px;
+       height: 250px;}
+table, th, td {
+border: 1px solid black;
+}
+.open{
+    color: white;
+    font: 20px bold;
+    text-align: center;
+    border-radius: 15px;
+    background-image: url(paper2.jpg);
+    margin: 10px;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
+
+
+
+
+
+    
+
